@@ -3,8 +3,24 @@
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
 ![Platform](https://img.shields.io/badge/platform-Pega%20Infinity-blue)
 ![UI](https://img.shields.io/badge/UI-Constellation-orange)
+![Program](https://img.shields.io/badge/program-NIP%202026-purple)
 
 A Pega Platform case management application for booking movie tickets, built as part of the **NIP (National Internship Program)**.
+
+## 🎥 Demo Video
+
+### ▶️ [**Click Here to Watch the Demo Video**](https://drive.google.com/file/d/1vk5vbTV4Fke0_m4eWfr-i0qE61bwvidG/view?usp=sharing)
+
+---
+
+## 📑 Table of Contents
+
+- [Overview](#-overview)
+- [Case Flow](#-case-flow)
+- [Key Features](#-key-features)
+- [Tech Stack](#️-tech-stack)
+- [Personas](#-personas)
+- [Author](#-author)
 
 ---
 
@@ -50,4 +66,12 @@ This application manages the complete movie ticket booking journey — from sele
 
 ---
 
-<p align="center"><i>Built with Pega Platform | NIP Internship Project</i></p>
+## 👤 Author
+
+**P S Shree Madhan**
+Department of Computer Science and Business Systems
+V.S.B Engineering College, Karur
+
+---
+
+<p align="center">Made for the National Internship Program (NIP) 2026</p>
